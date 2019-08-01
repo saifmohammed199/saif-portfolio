@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** thin bar ***/
 
 .thin-bar {
-		border-bottom: 5px solid #F33F12;
+		border-bottom: 5px solid #26BADE;
 }
 
 
@@ -111,16 +111,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cta .cta-button {
-		color: #cc4b37;
+		color: #26BADE;
 		text-transform: uppercase;
-		border: 2px solid rgba(255, 103, 68, 0.91);
+		border: 2px solid #26BADE;
 		border-radius: 50px;
 		background: white;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
 		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgba(255, 103, 68, 0.91);
+		background-color: #26BADE;
 		color: white;
 }
 
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #experience i {
-	color: rgb(255, 138, 89);
+	color: #26BADE;
 	font-size: 4em;
 }
 
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #work h2 {
-	color: #FF6945;
+	color: #26BADE;
 	margin-bottom: .7em;
 }
 
@@ -209,11 +209,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 2em 0 -0.1em;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
-	color: #ff7654;
+	color: #26BADE;
 }
 
 .details i {
-	color: #ff7654;
+	color: #26BADE;
 	margin-right: 1em;
 }
 
@@ -226,14 +226,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details a, .details a:link, .details a:active{
-		color: rgba(255, 103, 68, 0.91);
-		border: 2px solid rgba(255, 103, 68, 0.91) !important;
+		color: #26BADE;
+		border: 2px solid #26BADE !important;
 		background-color: #fff;
 }
 
 .details a:hover, .details a:focus {
 		/*box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);*/
-		background-color: rgba(255, 103, 68, 0.91) !important;
+		background-color:#26BADE !important;
 		color: #fff;
 }
 
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: #26BADE;
 	padding: 6em 4em 5.6em;
 }
 
@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer-cta a:hover {
 	background: #fff;
-	color: rgba(255, 103, 68, 0.91);
+	color: #26BADE;
 	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 }
 
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer #logo {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: #26BADE;
 	border-radius: 50%;
 	color: #fff;
 	padding: .4em;
